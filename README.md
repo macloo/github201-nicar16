@@ -33,3 +33,9 @@ To make "rewinding" the repo easy and logical, commit separate files separately.
 ![View history in GitHub app](images/view_history.png)
 
 Above: Switch to "History" view with the button, top center.
+
+## Sync with GitHub.com
+
+![Sync to github.com](images/sync.png)
+
+With Sync, you will upload all your committed changes to github.com, making your repo up-to-date with your local repo.
